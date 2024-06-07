@@ -55,8 +55,6 @@ Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 ```
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## **Acknowledgements**
 Thanks to the Future Ready Talent program by Microsoft for providing the platform and resources to develop this project.
