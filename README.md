@@ -18,7 +18,7 @@ To get a copy of this project up and running on your local machine, follow these
 ## **Prerequisites**
 Node.js installed
 Azure Subscription
-## **Installation****
+## **Installation**
 ### **Clone the Repository:**
 ```
 git clone https://github.com/your-username/your-repo-name.git
@@ -48,7 +48,7 @@ Describe how to use the web page and interact with the chat bot. Provide any nec
 ### **Contributing**
 We welcome contributions to enhance the functionality and features of this project. Please follow these steps to contribute:
 
-### **Fork the repository.**
+### **Fork The Repository**
 ```
 Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add new feature').
