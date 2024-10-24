@@ -1,5 +1,4 @@
-**Live Demo of the project is not active as my azure credits are over
-**
+**Live Demo of the project is not active as my azure credits are over**
 
 
 
