@@ -1,3 +1,5 @@
+Live Demo of the project is not active as my azure credits are over
+
 # **Project Title: Azure-Enabled Web Page with Chat Bot**
 ## **Overview**
 This project showcases a web page that integrates two powerful Azure technologies: an AI-powered chat bot and Azure Web Apps. The web page aims to demonstrate the capabilities of Azure in creating interactive and intelligent web applications.
